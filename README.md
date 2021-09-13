@@ -7,6 +7,8 @@ Quicksort partitions an array and then calls itself recursively twice to sort th
 
 ![quick-sort-pseudo-code](https://user-images.githubusercontent.com/81616253/133014874-2862069c-64b5-4385-8852-76bda95cc663.png)
 
+Quick Sort Program in C in another way 
+
 ```
 
 #include <stdio.h>
